@@ -93,7 +93,7 @@ size_t print_list_str(const list_t *h)
 }
 
 /**
- * delete_node_at_index - Deletes node 
+ * delete_node_at_index - Deletes node
  * @head: address of ptr to first node
  * @index: index of node to delete
  *
